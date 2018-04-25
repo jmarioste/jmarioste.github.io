@@ -43,9 +43,9 @@ $(document).on('ready', function () {
   //   /*------------------------------------------------------------*/
   //   /* Closes responsive menu when a scroll trigger link is clicked
   //   /*------------------------------------------------------------*/
-  $('a').click(function () {
-    $('.navbar-collapse').collapse('hide');
-  });
+  // $('a').click(function () {
+  //   $('.navbar-collapse').collapse('hide');
+  // });
 
 
   //   /*----------------------------------------------------------------*/
@@ -53,7 +53,7 @@ $(document).on('ready', function () {
   //   /*-----------------------------------------------------------------*/
   $('body').scrollspy({
     target: '#mainNav',
-    offset: 54
+    offset: 55
   });
 
 
