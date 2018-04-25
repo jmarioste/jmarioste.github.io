@@ -344,11 +344,11 @@ a.active, a:active, a:focus, a:hover {
 /*---------------------------------------------------*/
 /* Services
 /*---------------------------------------------------*/
-.services {
+.skills {
   background-color: #f7f7f7;
 }
 
-.services .box-service {
+.skills .box-service {
   text-align: center;
   background-color: #fff;
   padding: 30px;
@@ -356,7 +356,7 @@ a.active, a:active, a:focus, a:hover {
   box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.06), 0 4px 5px 0 rgba(0, 0, 0, 0.06), 0 1px 10px 0 rgba(0, 0, 0, 0.08);
 }
 
-.services .box-service i {
+.skills .box-service i {
   color: #fff;
   background-color: #00cdcd;
   border-radius: 50%;
@@ -366,13 +366,13 @@ a.active, a:active, a:focus, a:hover {
   padding: 20px 15px 15px 15px;
 }
 
-.services .box-service h4 {
+.skills .box-service h4 {
   margin-bottom: 10px;
   font-size: 20px;
   font-weight: 600;
 }
 
-.services .box-service p {
+.skills .box-service p {
   color: #777777;
 }
 
