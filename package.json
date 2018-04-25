@@ -1,0 +1,19 @@
+{
+  "name": "shizkun.github.io",
+  "version": "1.0.0",
+  "description": "My github website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizkun/shizkun.github.io.git"
+  },
+  "author": "Jasser <pivotanimator95@gmail.com> (https://github.com/shizkun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shizkun/shizkun.github.io/issues"
+  },
+  "homepage": "https://github.com/shizkun/shizkun.github.io#readme"
+}
